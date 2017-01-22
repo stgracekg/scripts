@@ -13,9 +13,9 @@ lmagenta="\e[01;35m"
 
 key="/var/named/rndc.key"
 local_ns=10.0.0.1
-remote_ns=37.139.15.19
-localzone=locco.org
-remotezone=kirgizia.online
+remote_ns=x.x.x.x
+localzone=blah.com
+remotezone=blahblah.org
 reversezone=0.0.10.in-addr.arpa
 prefix=10.0.0
 maxrange=254
