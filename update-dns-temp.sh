@@ -1,7 +1,7 @@
 #!/bin/bash
 # This file was created on Fri 20 Jan 2017 11:11:00 PM IST
 # Last edit on Mon 23 Jan 2017 12:47:05 AM IST
-# Script for DNZ zones updates
+# Script for DNS zones updates
 
 restore="\e[0m"         # Colors
 warn="\e[00;31m"        # red
